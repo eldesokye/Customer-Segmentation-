@@ -5,6 +5,4 @@ numpy
 matplotlib
 seaborn
 gunicorn
-pickle
-Flask-Cors
-Flask-RESTful
+
